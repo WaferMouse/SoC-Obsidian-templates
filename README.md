@@ -2,6 +2,10 @@
 
 Contained in this repo are three templates for Obsidian intended for School of Code cohort. Below are directions on how to make best use of them.
 
+## Setting up templates
+
+For a guide on how to setup templates in Obsidian, see this link: https://facedragons.com/productivity/obsidian-templates-with-examples/
+
 ## Daily note template
 
 Open the Command Palette (Ctrl-P on Windows, Cmd-P on Mac) and search for "today" to create a daily note for the day.
