@@ -6,6 +6,8 @@ Contained in this repo are three templates for Obsidian intended for School of C
 
 For a guide on how to setup templates in Obsidian, see this link: https://facedragons.com/productivity/obsidian-templates-with-examples/
 
+Then download the templates from this repo and drag them into your templates folder in Obsidian.
+
 ## Daily note template
 
 Open the Command Palette (Ctrl-P on Windows, Cmd-P on Mac) and search for "today" to create a daily note for the day.
