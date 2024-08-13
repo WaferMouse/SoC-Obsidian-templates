@@ -8,7 +8,7 @@ For a guide on how to setup templates in Obsidian, see this link: https://facedr
 
 Then download the templates from this repo and drag them into your templates folder in Obsidian.
 
-## Daily note template
+## Daily Retrospective template
 
 Open the Command Palette (Ctrl-P on Windows, Cmd-P on Mac) and search for "today" to create a daily note for the day.
 
